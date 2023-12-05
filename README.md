@@ -1,6 +1,7 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 [![Build status](https://ci.appveyor.com/api/projects/status/qqi35aehyh5g72q3/branch/main?svg=true)](https://ci.appveyor.com/project/Zhsaule/ajs-hw6/branch/main)
 
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок
